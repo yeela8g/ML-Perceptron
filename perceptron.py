@@ -49,7 +49,6 @@ We add a column of ones to the train and test features so we won't need to learn
 def add_ones_column(X):
   # add a column of ones to the data
   ones_col = np.ones((X.shape[0],1))
-  print(np.hstack((ones_col,X)).shape)
   return np.hstack((ones_col,X))
 
 
