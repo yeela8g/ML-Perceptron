@@ -34,7 +34,7 @@ That is the visualization of the decision boundary that was created by the train
 
 
 ### Running the Program
-
+- Download and save the relevant dataset.
 - Execute the provided code in a Python environment that supports the required libraries (such as Google Colab).
 - Make sure to set up the correct folder structure and filenames as specified in the code.
 - The program will train the Perceptron model and print the iteration number, training accuracy, and testing accuracy for each iteration.
